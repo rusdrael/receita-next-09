@@ -49,7 +49,7 @@ export default function Receita9(){
             <h2>Receita-Next-09</h2>
             <p>Site para uma atividade da disciplina de Programação Web.</p>
             <nav>
-                <Link href='rickyandmorty/1'><a>API de Ricky and Morty.</a></Link>
+                <Link href='rickandmorty/1'><a>API de Rick and Morty.</a></Link>
                 <Link href='movies/tt0095801'><a>API Movies.</a></Link>
             </nav>
         </div>
